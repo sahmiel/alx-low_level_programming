@@ -7,5 +7,6 @@
 */
 int main(void)
 {
+	printf("%sn", $CFILE)
 	return (0);
 }
