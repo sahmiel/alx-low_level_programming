@@ -2,17 +2,9 @@
 
 
 /**
-
-
  * main - print possible combo of 3
-
-
  *
-
-
  * Return: returns zero at the end
-
-
  */
 
 
